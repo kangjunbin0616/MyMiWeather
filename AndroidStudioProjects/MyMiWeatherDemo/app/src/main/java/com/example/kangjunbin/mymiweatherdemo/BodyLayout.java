@@ -14,6 +14,6 @@ import java.util.jar.Attributes;
 public class BodyLayout extends LinearLayout {
     public BodyLayout(Context context, AttributeSet attributeSet){
         super(context,attributeSet);
-        LayoutInflater.from(context).inflate(android.R.layout.body_layout,this);
+        LayoutInflater.from(context).inflate(R.layout.body_layout,this);
     }
 }

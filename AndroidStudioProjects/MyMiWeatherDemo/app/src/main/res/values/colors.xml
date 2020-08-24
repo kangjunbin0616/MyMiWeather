@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="frontWhite">#fafafa</color>
+    <color name="colorPrimary">#fcfbfb</color>
+    <color name="colorPrimaryDark">#119fe6</color>
+    <color name="colorAccent">#C8FAFAFA</color>
+    <color name="frontWhite">#fcfcfc</color>
     <color name="frontAir">#C8FAFAFA</color>
+    <color name="colorblack">#252323</color>
+    <color name="tableColor">#15ffffff</color>
+    <color name="sunColor">#FAF7F446</color>
 </resources>

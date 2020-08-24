@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="my_miweather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.kangjunbin.mymiweatherdemo.db.HistoryCity" />
+    </list>
+
+</litepal>
